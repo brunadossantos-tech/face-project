@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: rgb(58, 94, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(58, 94, 180, 1) 0%,
+    rgba(29, 54, 253, 1) 50%,
+    rgba(110, 69, 252, 1) 100%
+  );
+}
+
+button {
+  cursor: pointer;
+}
+
+#detect {
+  background-color: #6e45fc;
+}
